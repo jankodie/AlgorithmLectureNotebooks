@@ -1,0 +1,6 @@
+name: Algorithms
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
