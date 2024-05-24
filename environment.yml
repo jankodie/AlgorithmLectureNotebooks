@@ -1,4 +1,4 @@
-name: Algorithms
+name: algorithms
 channels:
   - conda-forge
   - defaults
@@ -8,4 +8,7 @@ dependencies:
   - seaborn
   - jupyter
   - jupyterlab
+  - pip
+  - pip:
+    - -r requirements.txt
  
